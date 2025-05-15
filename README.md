@@ -6,5 +6,5 @@
  Based on the result, it helps verify whether the customer's complaint is valid ✅. Depending on the delivery company’s policy, appropriate actions 
  such as refunds 💰 or compensation can be taken.
 
- . In simple terms, this application acts as a bridge between customers and food delivery platforms, ensuring transparency and fairness in complaint resolution.
+ In simple terms, this application acts as a bridge between customers and food delivery platforms, ensuring transparency and fairness in complaint resolution.
 continue..
