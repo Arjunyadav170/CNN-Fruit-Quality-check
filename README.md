@@ -9,21 +9,24 @@
  In simple terms, this application acts as a bridge between customers and food delivery platforms, ensuring transparency and fairness in complaint resolution.
 
 ## Dataset Use
+ Project uses a Kaggle dataset<br>
+ <a href="https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification">Kaggle Dataset Link</a>
 
-Project use kaggle dataset<br>
+ #Overview of Dataset
+ In this project, I use an image dataset containing different fruits and vegetables such as apples, bananas, cucumbers, okra, oranges, potatoes, and  tomatoes.<br>
 
-<a href="https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification">Kaggle dataset use</a><br>
+ These items are classified into two categories: Fresh and Rotten.<br>
 
-#Overveiw of dataset<br>
- In this project I use image dataset of different fruit and vegetables  like:- Apples  ,Banana ,Cucumber ,okra ,Oranges ,Patato ,Tamto<br>
- ->This all fruit  classification in  Fresh and Rotten <br>
-  Freshness Levels: The dataset provides a clear distinction between fresh and rotten/stale states, allowing for the training of models capable of <br    accurately identifying the level of decay in fruits and vegetables.
+ Freshness Levels: The dataset clearly distinguishes between fresh and rotten/stale conditions, enabling the training of models to accurately         identify the level of decay in fruits and vegetables.
 
  ## Tech Stack Used
- <> Frontend: JavaScript
- <> Backend: Flask
- <> Deep  Learning : CNN Architcture , MobileNet pre-train model 
+ <> Frontend: JavaScript<br>
+ <> Backend: Flask<br>
+ <> Deep  Learning : CNN Architcture , MobileNet pre-train model <br>
 
+## Model webpage-image
+![Car Webpage image]([https://github.com/Arjunyadav170/CNN-Fruit-Quality-check/blob/main/application_img_after_prediction.jpg?raw=true])
+ 
  
 
 
