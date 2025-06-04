@@ -13,10 +13,16 @@
 Project use kaggle dataset<br>
 
 <a href="https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification">Kaggle dataset use</a><br>
+
 #Overveiw of dataset<br>
  In this project I use image dataset of different fruit and vegetables  like:- Apples  ,Banana ,Cucumber ,okra ,Oranges ,Patato ,Tamto<br>
  ->This all fruit  classification in  Fresh and Rotten <br>
   Freshness Levels: The dataset provides a clear distinction between fresh and rotten/stale states, allowing for the training of models capable of <br    accurately identifying the level of decay in fruits and vegetables.
+
+ ## Tech Stack Used
+ <> Frontend: JavaScript
+ <> Backend: Flask
+ <> Deep  Learning : CNN Architcture , MobileNet pre-train model 
 
  
 
