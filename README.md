@@ -29,11 +29,11 @@
 
 ## Project  Application 
 # Main Use case of project
- :-Today, there are many food delivery apps around the world that distribute a wide range of items such as fruits, vegetables, and mixed food items. However, most delivery platforms lack a reliable system to verify customer complaints regarding the quality or freshness of delivered products.
+ :-Today, there are many food delivery apps around the world that distribute a wide range of items such as fruits, vegetables, and mixed food items. However, most delivery platforms lack a reliable system to verify customer complaints regarding the quality or freshness of delivered products.<br>
 
-This project aims to assist food delivery companies in verifying such complaints using image-based classification of fruits and vegetables into Fresh and Rotten categories. By integrating this system, delivery platforms can:
-1.Automatically validate customer complaints with image evidence
-2.Improve customer satisfaction by ensuring accountability and faster resolution.
+This project aims to assist food delivery companies in verifying such complaints using image-based classification of fruits and vegetables into Fresh and Rotten categories. By integrating this system, delivery platforms can:<br>
+1.Automatically validate customer complaints with image evidence<br>
+2.Improve customer satisfaction by ensuring accountability and faster resolution.<br>
 
 
   
