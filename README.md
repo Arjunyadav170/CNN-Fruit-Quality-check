@@ -9,9 +9,11 @@
  In simple terms, this application acts as a bridge between customers and food delivery platforms, ensuring transparency and fairness in complaint resolution.
 
 ## Dataset Use
-Project use kaggle dataset
+
+Project use kaggle dataset<br>
+
 <a href="https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification">Kaggle dataset use</a><br>
-#Overveiw of dataset
+#Overveiw of dataset<br>
  IN This project I use image dataset of different fruit and vegetables  like:- Apples  ,Banana ,Cucumber ,okra ,Oranges ,Patato ,Tamto
  ->This all fruit  classification in  Fresh and Rotten 
   Freshness Levels: The dataset provides a clear distinction between fresh and rotten/stale states, allowing for the training of models capable of     accurately identifying the level of decay in fruits and vegetables.
