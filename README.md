@@ -25,7 +25,7 @@
  <> Deep  Learning : CNN Architcture , MobileNet pre-train model <br>
 
 ## Model webpage-image
-![Car Webpage image]([https://github.com/Arjunyadav170/CNN-Fruit-Quality-check/blob/main/application_img_after_prediction.jpg?raw=true])
+![Car Webpage image](https://github.com/Arjunyadav170/CNN-Fruit-Quality-check/blob/main/application_img_after_prediction.jpg?raw=true)
  
  
 
