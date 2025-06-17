@@ -10,7 +10,7 @@
 
 # Dataset Use
  Project uses a Kaggle dataset<br>
- <a href="https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification">Kaggle Dataset Link</a>
+ <a href="https://www.kaggle.com/datasets/swoyam2609/fresh-and-stale-classification">Kaggle Dataset Link </a>
 
  #Overview of Dataset
  In this project, I use an image dataset containing different fruits and vegetables such as apples, bananas, cucumbers, okra, oranges, potatoes, and  tomatoes.<br>
